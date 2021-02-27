@@ -5,7 +5,7 @@ Note: items that are used in high numbers include some spares.
 Item | Amount | Size | Note
 ---- | ------ | ---- | ----
 GPU riser|1|About 20cm long|I went with the [HDPlex](https://hdplex.com/hdplex-silicon-pciex16-3-0-flexible-riser.html) riser due to how thin and flexibel it is
-Video output extensions|1 or 2|5 to 10 cm|Important: refer to the [guide](#extentions) under this table for more info
+Video output extensions|1 or 2|5 to 10 cm|Important: refer to the [guide](#about-the-video-extension-cables) under this table for more info
 Rounded aluminium extrusions|4|350mm long, 20x20|Can be bought on Motedis (EU), Misumi (US), Aliexpress
 T-slot inserts|About 30|Preferably M3|Best get some spares. Can be bought on Motedis (EU), Misumi (US), Aliexpress
 Case feet|4|Depends on the tap size of your extrusions|I used [these](https://aliexpress.com/item/4001184672773.html?) (M6*15). Smaller taps can also use feet like [these](https://aliexpress.com/item/33060530969.html)
@@ -18,7 +18,7 @@ Screws|4|M4 x 10mm|Countersunk
 Screws|8|the size of your extrusion taps
 
 
-## <a name="extensions"></a>About the video extension cables
+## About the video extension cables
 
 The video extension cables come from ADT-Link. You should biuy cables that have an angled male connector form your GPU on one side and a threaded female connector on the other side.
 
