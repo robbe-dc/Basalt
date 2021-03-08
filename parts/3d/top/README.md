@@ -16,6 +16,6 @@ This part is pretty easy to print. No support required, a brim of about 5mm coul
 
 This option allows for a custom lego brick to be mounted on a keycap to use as a power button. For the less serious approach.
 
-This part may need some minor support on the keycap holding part. You may also add a brim of about 5mm couldif your printer is prone to prints warping.
+This part may need some minor support on the keycap holding part. You may also add a brim of about 5mm if your printer is prone to prints warping.
 
 ![Slicer screenshot](screenshot-keycap.png)
