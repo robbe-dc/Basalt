@@ -1,5 +1,7 @@
 # Top
 
+This important part holds the 4 extrusions together, holds 8 magnets for all panels and supports the top back corner of the motherboard.
+
 There are 2 options for the top parts, which differ in the power button they support. Make sure to pick the corresponding laser cut top panel.
 
 ## Vandal power button
