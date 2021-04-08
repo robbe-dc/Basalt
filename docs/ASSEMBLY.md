@@ -26,11 +26,11 @@ The PSU bottom part is first. Don't tighten this too hard yet, we'll have to loo
 
 ![Assembly image](images/assembly4.png)
 
-Insert the extrusion insert number 3 on the motherboard side side and the PSU bottom on top,
+Insert the extrusion insert number 3 on the motherboard side and then the PSU bottom on top.
 
 ![Assembly image](images/assembly5.png)
 
-Insert number 4 boes on the GPU side and the motherboard bottom back should rest on the PSU top part and the extrusion insert.
+Insert number 4 goes on the GPU side and the motherboard bottom back should rest on the PSU top part and the extrusion insert.
 
 ![Assembly image](images/assembly6.png)
 
