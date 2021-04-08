@@ -18,19 +18,19 @@ The bottom requires he following inserts:
 * 2x 4mm inserts for the GPU PCI tab
 * 2x 3mm inserts for the GPU PCI clamp (above the video outputs)
 
-| IMG FRONT | IMG PCI | IMG CLAMP |
+| **IMG FRONT** | **IMG PCI** | **IMG CLAMP** |
 
 ### Motherboard parts x4
 
 The three individual motherboard parts all need inserts to mount the motherboard. Make sure you check what the front and the back are so you insert the the right direction. The top of the insert should be the non-chamfered edge because that's where the motherboard comes.
 
-| IMG 1 | IMG 2 | IMG 3 |
+| **IMG 1** | **IMG 2** | **IMG 3** |
 
 ### Top
 
 Finally, the top also needs one insert for the last motherboard mount. There is no way of checking for non-chamfered sides here, but you can make out the sides because this part is not symmetrical.
 
-IMG
+**IMG**
 
 ## Attaching the T-nuts
 
@@ -50,4 +50,4 @@ You can do so by screwing the nuts to the part with the M3x10mm screws, but don'
 
 This should be self explanatory, just remember to mount the PCB upside down.
 
-IMG
+**IMG**
