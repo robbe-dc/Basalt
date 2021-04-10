@@ -1,3 +1,3 @@
 # Extrusion insert 4
 
-This insert should be printed twice and goes in the back top, between the motherboard bottom back and the top parts.
+This insert goes in the back bottom, between the PSU bottom and the motherboard bottom back.
