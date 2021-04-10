@@ -74,17 +74,13 @@ Now comes a tricky part: the riser cable. Lay it out horizontally so you can see
 
 **IMG**
 
-When using the HDPlex riser, you can really pinch hard. I pinched the riser between my desk and a ruler to get it completely flat and it still works well.
-
-**IMG**
-
 Next is the PSU. I would advice to already plug in the cables you require before inserting it into the case. Make sure the fan is facing outwards so it doesn't suffocate.
 
 Take care when mounting the PSU to the printed parts as this is the only part that uses 6-32 screws.
 
 When the PSU is inserted, you can route the cables and insert the into the components. There is some room in front of the PSU for excess cabling when using a standard SFX PSU.
 
-**IMG**
+![Inserting the PSU](images/hardware6.png)
 
 We're almost ready now, only some minor things left. The video output extensions can be mounted to the case and inserterd in the GPU. It requires countersunk M4 screws. Don't overtighten countersunk screws as they will break the plastic parts!!
 
