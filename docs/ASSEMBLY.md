@@ -38,29 +38,39 @@ The final piece, the top, should be aligned nicely with the top of the extrusion
 
 ![Assembly image](images/assembly7.png)
 
+Only thing left now is the accessories: the front I/O and the riser. The riser screws into the PSU bottom part and the motherboard bottom back.
+
+![Mounting the riser](images/assembly8.png)
+
+The front I/O simply screws into the bottom part on the front. Make sure to insert it upside down or it won't line up with the front panel.
+
+![Mounting the front I/O](images/assembly9.png)
+
 ## Inserting the hardware
 
 To insert the hardware, we'll temporarily take out the top printed part. We'll insert it again throughout the hardware process.
 
-We'll start out with the largest part, the GPU. There are a couple of options. Both require you to take out the 2 extrusion inserts above the PSU bottom part and sliding that up a couple of centimeters.
+We'll start out with the largest part, the GPU. To insert the GPU, we first have to slide up the PSU bottom part a bit because the PCI tab will have to come between the bottom part and the PSU bottom part. The PSU bottom part is held into place by the extrusion inserts and the riser, so you may want to slide up the whole thing or take out the extrsusion inserts and the riser temporarily.
 
-The easiest is to insert it at an edge from the side of the case. If you have a very large card, this may not be possible. I would then advice to insert it from the top but be carefull not to damage parts with the PCI bracket.
+The easiest is to insert the GPU itself is at an edge from the side of the case. If you have a very large card, this may not be possible. I would then advice to insert it from the top but be carefull not to damage parts with the PCI bracket.
 
-**IMG**
-
-Screw in the PCI tab on the bottom. If the front IO is too inconvinient, you can also temporarily take it out.
+| ![Inserting the GPU](images/hardware1.png) | ![Mounting the GPU](images/hardware2.png) |
 
 Push the PSU bottom all the way down and make sure the PCI bracket is held well into place. Tighten the PSU bottom part into the extrusions again and insert the extrusion inserts again.
 
-**IMG**
+![Mounting the GPU](images/hardware3.png)
+
+Screw in the PCI tab on the bottom. If the front IO is too inconvinient, you can also temporarily take it out.
+
+![Mounting the GPU](images/hardware4.png)
 
 The motherboard goes in next. Install the memory and CPU cooler before you put it into the case. If your CPU cooler blocks access to certain ports, insert those cables already.
 
 The board is inserted from the top and at this point there should be only 3 mounting points available. After you've screwed the board to those 3 points, you can insert the top part again and screw the board to the fourth point.
 
-**IMG**
+![Inserting the motherboard](images/hardware5.png)
 
-Now comes a tricky part: the riser cable. Attach it to the GPU and lay it out horizontally so you can see where the bend needs to come. start by gently bending the riser and lining it up with the PCI connector on the motherboard. When you're certain the it's lined up well, pinch the bend together so it gets as tight as possible without damaging the riser.
+Now comes a tricky part: the riser cable. Lay it out horizontally so you can see where the bend needs to come. Start by gently bending the riser and lining it up with the PCI connector on the motherboard. When you're certain the it's lined up well, pinch the bend together so it gets as tight as possible without damaging the riser.
 
 **IMG**
 
