@@ -21,9 +21,10 @@ Hardware support is as following:
 ## Getting started
 
 * Source the materials from the [shopping list](docs/SHOPPINGLIST.MD)
+* Read about the [preparations](docs/PREPARATIONS.MD)
 * Print the required parts
 * Lasercut the panels
-* Build the case
+* Build the case using the [assembly guide](docs/ASSEMBLY.MD)
 
 ## Contribute
 
