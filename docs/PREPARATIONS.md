@@ -1,6 +1,6 @@
 # Preparing the parts
 
-Looks like you've succeeded collecting all required parts, which is a challange to start with. Well done! Now let's get building.
+Looks like you've succeeded collecting all required parts, which is a challenge to start with. Well done! Now let's get building.
 
 ## Inserting threaded inserts
 
