@@ -92,16 +92,26 @@ We're almost ready now, only some minor things left. The video output extensions
 
 <img src="./images/hardware10.png" width="600">
 
-Last and optional step is the top fan. The fan attaches to the top panel with 4 self tapping screws. Insert the cable in the motherboard and you can start mounting the panels with the top panel. Screw the panel in the extrusion tops with the large M6 screws.
+Now is the time to reinsert the top printed part and mount fourth screw of the motherboard in the mount. They should line up if everything went well.
 
-**IMG** **IMG**
+<img src="./images/hardware11.png" width="600">
 
-The bottom is next, which is screws into the extrusion using the case feet with attached M6 threads.
+We're gonna start attaching panels now. The top panel is first, but some things need to be mounted to it first. Use you 16mm vandal switch in the front and mount it with the bolt that comes with it.
 
-**IMG**
+The (optional) top fan is next. It mount to the top panel using self tapping screws in the 4 screw holes. You may want to countersink the holes if you got a drill with a countersinking bit to make it look better.
+
+Wen everything is mounted, you can carefuly drop the panel down into the case and screw it to the extrusions using M6 screws (or smaller if the tapping on your extrusion isn't M6).
+
+<img src="./images/hardware12.png" width="600">
+
+The bottom is next, which is screws into the extrusion using your choice of case feet.
+
+<img src="./images/hardware13.png" width="600">
 
 The remaining panels are attached using the magnets, easy enough.
 
-**IMG**
+<img src="./images/hardware14.png" width="600">
 
 You are now done, hooray!
+
+<img src="./images/hardware15.png" width="600">
