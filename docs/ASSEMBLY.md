@@ -72,7 +72,7 @@ The board is inserted from the top and at this point there should be only 3 moun
 
 Now comes a tricky part: the riser cable. Lay it out horizontally so you can see where the bend needs to come. Start by gently bending the riser and lining it up with the PCI connector on the motherboard. When you're certain the it's lined up well, pinch the bend together so it gets as tight as possible without damaging the riser.
 
-**IMG**
+| ![Bending the riser](images/hardware7.png) | ![Bending the riser](images/hardware8.png) |
 
 Next is the PSU. I would advice to already plug in the cables you require before inserting it into the case. Make sure the fan is facing outwards so it doesn't suffocate.
 
