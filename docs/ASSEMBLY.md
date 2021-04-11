@@ -54,7 +54,12 @@ We'll start out with the largest part, the GPU. To insert the GPU, we first have
 
 The easiest is to insert the GPU itself is at an edge from the side of the case. If you have a very large card, this may not be possible. I would then advice to insert it from the top but be carefull not to damage parts with the PCI bracket.
 
-| ![Inserting the GPU](images/hardware1.png) | ![Mounting the GPU](images/hardware2.png) |
+<table>
+  <tr>
+    <td><img src="./images/hardware1.png" width="400"></td>
+    <td><img src="./images/hardware2.png" width="400"></td>
+  </tr>
+</table>
 
 Push the PSU bottom all the way down and make sure the PCI bracket is held well into place. Tighten the PSU bottom part into the extrusions again and insert the extrusion inserts again.
 
@@ -72,7 +77,12 @@ The board is inserted from the top and at this point there should be only 3 moun
 
 Now comes a tricky part: the riser cable. Lay it out horizontally so you can see where the bend needs to come. Start by gently bending the riser and lining it up with the PCI connector on the motherboard. When you're certain the it's lined up well, pinch the bend together so it gets as tight as possible without damaging the riser.
 
-| ![Bending the riser](images/hardware7.png) | ![Bending the riser](images/hardware8.png) |
+<table>
+  <tr>
+    <td><img src="./images/hardware7.png" width="400"></td>
+    <td><img src="./images/hardware8.png" width="400"></td>
+  </tr>
+</table>
 
 Next is the PSU. I would advice to already plug in the cables you require before inserting it into the case. Make sure the fan is facing outwards so it doesn't suffocate.
 
