@@ -88,7 +88,9 @@ When the PSU is inserted, you can route the cables and insert the into the compo
 
 We're almost ready now, only some minor things left. The video output extensions can be mounted to the case and inserterd in the GPU. It requires countersunk M4 screws. Don't overtighten countersunk screws as they will break the plastic parts!!
 
-**IMG**
+<img src="./images/hardware9.png" width="600">
+
+<img src="./images/hardware10.png" width="600">
 
 Last and optional step is the top fan. The fan attaches to the top panel with 4 self tapping screws. Insert the cable in the motherboard and you can start mounting the panels with the top panel. Screw the panel in the extrusion tops with the large M6 screws.
 
