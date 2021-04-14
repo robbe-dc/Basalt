@@ -6,8 +6,8 @@ Those screw holes are usually M3 and you best use countersunk screws to avoind i
 
 To know if your GPU has these mounting points, refer to the following images:
 
-<img src="./images/mounts1.jpg" width="600">
+<img src="./mounts1.jpg" width="600">
 
-<img src="./images/mounts2.jpg" width="600">
+<img src="./mounts2.jpg" width="600">
 
-<img src="./images/mounts3.jpg" width="600">
+<img src="./mounts3.jpg" width="600">
