@@ -2,5 +2,5 @@
 
 This panel is symmetric so you cut one for each side.
 
-Width: 148mm
+Width: 147mm
 Height: 350mm
