@@ -2,35 +2,63 @@
 
 Looks like you've succeeded collecting all required parts, which is a challenge to start with. Well done! Now let's get building.
 
+## Glueing the magnets
+
+The printed parts have a recess where the magnet will need to be glued. The smaller part hold the magnet that is glued to the 3D printed part, the larger part holds the magnet that is glued to the case panel.
+
+The glue I used was 'UHU Max Repair' and this worked well.
+
+To attach the magnets to the panels on the correct position, you can make use of the printed glue mold in the optional parts. You will need at least 1 normal and 1 reverse version. Refer to the image to see how to use them (most important is the position of the middle magnet as it's not symetrical).
+
+**Important:** Make sure to triple check the polarity of the magnets before glueing. You also want to have the same polarity across all parts because the side panels are interchangable.
+
+<img src="./images/glue1.png" width="600">
+
+<img src="./images/glue2.png" width="600">
+
+
 ## Inserting threaded inserts
 
 Threaded inserts are melted into certain parts with a soldering iron so we can screw into them without wearing out the plastic.
 
-GENERAL GUIDE ABOUT THREADED INSERTS
+For a general guide about inserting threaded inserts, refer to the following movie: https://www.youtube.com/watch?v=GP1qrN-ONTA
+However, I would advice you to not use so much force pushing in the inserts as we're working with smaller ones.
 
 There are several pieces that require threaded inserts:
 
 ### Bottom
 
-The bottom requires he following inserts:
+The bottom requires the following inserts:
 
 * 2x 4mm inserts for the front IO
 * 2x 4mm inserts for the GPU PCI tab
 * 2x 3mm inserts for the GPU PCI clamp (above the video outputs)
 
-| **IMG FRONT** | **IMG PCI** | **IMG CLAMP** |
+<img src="./images/inserts1.png" width="600">
 
-### Motherboard parts x4
+
+### PSU Bottom
+
+The PSU bottom needs one insert for the riser.
+
+<img src="./images/inserts2.png" width="600">
+
+
+### Motherboard parts x3
 
 The three individual motherboard parts all need inserts to mount the motherboard. Make sure you check what the front and the back are so you insert the the right direction. The top of the insert should be the non-chamfered edge because that's where the motherboard comes.
 
-| **IMG 1** | **IMG 2** | **IMG 3** |
+The motherboard bottom back part also needs an insert for the riser.
+
+<img src="./images/inserts3.png" width="600">
+
 
 ### Top
 
 Finally, the top also needs one insert for the last motherboard mount. There is no way of checking for non-chamfered sides here, but you can make out the sides because this part is not symmetrical.
 
-**IMG**
+<img src="./images/inserts4.png" width="600">
+
 
 ## Attaching the T-nuts
 
@@ -42,12 +70,7 @@ You can do so by screwing the nuts to the part with the M3x10mm screws, but don'
 * PSU bottom: 2 nuts
 * PSU top: 1 nut
 * Motherboard bottom back: 4 nuts
-* Motherboard bottom front: 4 nuts
+* Motherboard bottom front: 3 nuts + 1 nut for the optional piece
 * Motherboard top front: 2 nuts
 * Top: 8 nuts
-
-## Add front IO pcb to bottom part.
-
-This should be self explanatory, just remember to mount the PCB upside down.
-
-**IMG**
+* (optional) GPU holder: 2 nuts (see opional pieces for more info)
