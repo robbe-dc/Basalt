@@ -8,7 +8,13 @@ The printed parts have a recess where the magnet will need to be glued. The smal
 
 The glue I used was 'UHU Max Repair' and this worked well.
 
-**Case panel glue**
+To attach the magnets to the panels on the correct position, you can make use of the printed glue mold in the optional parts.
+
+**Important:** Make sure to triple check the polarity of the magnets before glueing. You also want to have the same polarity across all parts because the side panels are interchangable.
+
+<img src="./images/glue1.png" width="600">
+
+<img src="./images/glue2.png" width="600">
 
 
 ## Inserting threaded inserts
